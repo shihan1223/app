@@ -1,0 +1,6 @@
+{
+  "name": "MediMeal",
+  "description": "Medicine & Food Reminder with personalized 10-meal schedule, custom medicine timing, racetrack daily timeline, and alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
